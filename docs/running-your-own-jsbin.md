@@ -26,7 +26,7 @@ This will automatically install all the dependencies.
 
 If you're installing JS Bin for development (and hopefully contribution), clone the project from github:
 
-    $ git clone git@github.com:remy/jsbin.git
+    $ git clone git@github.com:jsbin/jsbin.git
     $ cd jsbin
     $ npm install
 
